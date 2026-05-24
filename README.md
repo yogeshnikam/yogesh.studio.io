@@ -2,6 +2,9 @@
 
 Cross-device live streaming platform — web dashboard, mobile broadcaster, real-time engine, and Python API.
 
+> **Go live (deploy):** **[docs/GO-LIVE.md](docs/GO-LIVE.md)**  
+> **Setup & accounts:** **[docs/SETUP-AND-DEPLOYMENT.md](docs/SETUP-AND-DEPLOYMENT.md)**
+
 ## Architecture
 
 ```
@@ -91,4 +94,5 @@ On a **physical device**, set `EXPO_PUBLIC_API_URL` to your PC’s LAN IP (e.g. 
 | Database | MongoDB |
 | Cache | Redis |
 
-See `docs/architecture/README.md` for system design.
+See `docs/architecture/README.md` for system design.  
+See `docs/SETUP-AND-DEPLOYMENT.md` for the full account + deploy guide.
