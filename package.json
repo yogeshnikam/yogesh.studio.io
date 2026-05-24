@@ -10,8 +10,8 @@
     "dev:web": "npm run dev -w web",
     "dev:mobile": "npm run start -w mobile",
     "dev:api": "node scripts/run-api.js",
-    "infra:up": "docker compose -f infrastructure/docker/docker-compose.yml up -d",
-    "infra:down": "docker compose -f infrastructure/docker/docker-compose.yml down",
-    "infra:logs": "docker compose -f infrastructure/docker/docker-compose.yml logs -f"
+    "infra:up": "node scripts/infra.js up",
+    "infra:down": "node scripts/infra.js down",
+    "infra:logs": "node scripts/infra.js logs"
   }
 }

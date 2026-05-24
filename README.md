@@ -2,8 +2,8 @@
 
 Cross-device live streaming platform — web dashboard, mobile broadcaster, real-time engine, and Python API.
 
-> **Setup & deployment (accounts, env vars, Docker, Railway, Vercel):**  
-> **[docs/SETUP-AND-DEPLOYMENT.md](docs/SETUP-AND-DEPLOYMENT.md)**
+> **Go live (deploy):** **[docs/GO-LIVE.md](docs/GO-LIVE.md)**  
+> **Setup & accounts:** **[docs/SETUP-AND-DEPLOYMENT.md](docs/SETUP-AND-DEPLOYMENT.md)**
 
 ## Architecture
 
